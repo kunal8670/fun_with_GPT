@@ -29,7 +29,7 @@ This browser extension automatically pauses YouTube videos when you switch to an
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/youtube-auto-pause-extension.git
+   git clone https://github.com/kunal8670/fun_with_GPT.git
    ```  
 
 2. Edit the source files as needed:  
